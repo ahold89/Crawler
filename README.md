@@ -7,7 +7,8 @@ Asher Holder
 
 
 ***Comments****
-We added a "logs" folder - will be used by one of the bonuses
+Add a "logs" folder in the working directory - will be used by one of the bonuses.
+c:/serverroot is the root.
 
 ***Classes***
 	
