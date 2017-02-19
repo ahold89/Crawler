@@ -1,12 +1,15 @@
 # Crawler
 WebCrawler made as a Computer Networks project.
+
 *****************Lab 2******************
+
 Submitting: 
 Yotam Schreiber 
 Asher Holder 
 
 
 ***Comments****
+
 Add a "logs" folder in the working directory - will be used by one of the bonuses.
 c:/serverroot is the root.
 
